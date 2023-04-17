@@ -1,0 +1,45 @@
+Job Description
+
+As a DevOps Engineer for Vidhema, you will be working with our developers, SRE, and DevOps teams implementing our next generation infrastructure. We are looking for a self-motivated, responsible, team player who loves designing systems that scale. Vidhema provides a rich engineering environment where you can be creative, learn new technologies, solve engineering problems, all while delivering business objectives. The DevOps culture here is one with immense trust and responsibility. You will be given the opportunity to make an impact as there are no silos here.
+
+Responsibilities
+
+Deliver SLA and business objectives through whole lifecycle design of services through inception to implementation.
+Ensuring availability, performance, security, and scalability of AWS production systems
+Scale our systems and services through continuous integration, infrastructure as code, and gradual refactoring in an agile environment.
+Maintain services once a project is live by monitoring and measuring availability, latency, and overall system and application health.
+Respond to incidents and write blameless RCA’s/postmortems
+Implement and practice proper security controls and processes
+Providing recommendations for architecture and process improvements.
+Definition and deployment of systems for metrics, logging, and monitoring on platform.
+
+Must Have
+
+BS degree in Computer Science, Mathematics, Engineering, or equivalent practical experience.
+Strong interpersonal skills.
+Must have experience in CI/CD tools on anyone Jenkins, CircleCI, TravisCI
+Must have experience in Docker, Kubernetes, Amazon ECS or Mesos
+Must have experience with python. Experience with ruby, golang, groovywill be a plus.
+Proficient in shell scripting, and most importantly, know when to stop scripting and start developing.
+Experience in creation of highly automated infrastructures with any Configuration Management tools like: Terraform, Cloudformation or Ansible.
+In-depth knowledge of the Linux operating system and administration.
+Production experience with a major cloud provider such Amazon AWS.
+Knowledge of web server technologies such as Nginx or Apache.
+Knowledge of Redis, Memcache, or one of the many in-memory data stores.
+Experience with various load balancing technologies such as Amazon ALB/ELB, HA Proxy, F5.
+Comfortable with large-scale, highly-available distributed systems.
+
+Good To Have
+
+Understanding of Web Standards (REST, SOAP APIs, OWASP, HTTP, TLS)
+Production experience with Hashicorp products such as Vault or Consul
+Expertise in designing, analyzing troubleshooting large-scale distributed systems.
+Experience in an PCI environment
+Experience with Big Data distributions from Cloudera, MapR, or Hortonworks
+Experience maintaining and scaling database applications
+Knowledge of fundamental systems engineering principles such as CAP Theorem, Concurrency Control, etc.
+Understanding of the network fundamentals: OSI, TCI/IP, topologies, etc.
+Understanding of Auditing of Infrastructure and helping org. to control Infrastructure costs.
+Experience in Kafka, RabbitMQ or any messaging bus
+
+Skills: kubernates,terraform,jenkins,python,aws,azure
