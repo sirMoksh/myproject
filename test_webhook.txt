@@ -1,2 +1,44 @@
-this is a test to see if the webhook is working properly.
-again
+Can you describe your experience in driving platform stability and identifying areas where existing capabilities and processes require change?
+
+How have you partnered with internal engineering teams to solve operational challenges and drive progress against broader business strategies?
+
+Can you provide examples of functional and operational system requirements/specifications that you have created in previous roles?
+
+How do you collaborate with team members to co-develop and solve problems? How do you seek knowledge from domain specialists when needed?
+
+Can you discuss your experience in driving proof of concepts using cutting-edge technology with the intention of implementing them in production?
+
+What is your understanding of Monitoring & Observability fundamentals, such as logging, metrics, and tracing?
+
+Have you worked with monitoring platforms like Zabbix, ELK, AppDynamics, Grafana, Prometheus, Pagerduty, or Pingdom? Can you share your experience with any of these platforms?
+
+Which programming languages are you proficient in? Can you provide examples of projects or tasks you have completed using Python, Shell, Ansible, or Golang?
+
+Have you worked with AWS? Can you discuss your experience with containerized applications, automation on Kubernetes, and CI/CD frameworks for automating builds, tests, and deployments?
+
+Are you comfortable using developer tools like GitLab and Jenkins? Can you elaborate on your experience with these tools?
+
+How do you handle working on a 24/7 shift? Can you provide examples of incidents or situations where you had to work outside regular working hours?
+
+How do you handle incidents and ensure minimal disruption to the service? Can you discuss your experience as a First Point of Contact for incidents and escalations?
+
+Can you explain how you escalate unresolved incidents to other teams, management, vendors, or service providers based on defined processes or instructions from the management team?
+
+Can you share your experience in reviewing application and infrastructure monitoring requirements? How do you ensure they align with business needs?
+
+Have you worked with product engineering teams to develop SOP (Standard Operating Procedure) documents? Can you discuss your role in developing these documents?
+
+Can you explain how you perform root cause analysis on various service impacting events? 
+
+Can you provide an example of a situation where you conducted a root cause analysis?
+
+How would you rate your organizational, communication, and technical skills? Can you provide examples of how these skills have contributed to your success in previous roles?
+
+Are you familiar with Agile development methodologies? Can you discuss your experience working in an Agile environment and how it has influenced your work?
+
+Can you describe any additional experience or skills you possess that are relevant to this job description?
+
+Can you provide references or examples of projects or accomplishments that demonstrate your qualifications for this role?
+
+
+
